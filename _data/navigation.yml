@@ -10,7 +10,7 @@ main:
     url: /portfolio/
 
   - title: "Blog"
-    url: https://saadatirfan.hashnode.dev/
+    url: /posts/
  
   - title: "Talks"
     url: /talks/    
