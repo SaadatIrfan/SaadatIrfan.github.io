@@ -9,10 +9,10 @@ redirect_from:
 
 Being curious about macro and micro-level business-impacting strategies I have a deep-rooted interest in:
 
-➤ Market Research
-➤ Problem-solving with Data
-➤ Analytics
-➤ Gathering consumer insights and syncing consumer requirements for product improvement
+➤ Market Research  <br>
+➤ Problem-solving with Data <br>
+➤ Analytics  <br>
+➤ Gathering consumer insights and syncing consumer requirements for product improvement  <br>
 ➤ Enterprise Design Thinking
 
 Having been acquainted with the software development and deployment lifecycle,together with maintaining live production infrastructure while engaging with teams across all levels of the hierarchy, I have the acumen developed for Software product development and product lifecycle manegement.
