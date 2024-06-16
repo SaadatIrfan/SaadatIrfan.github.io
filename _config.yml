@@ -20,7 +20,7 @@ repository: "saadatirfan.github.io/"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar: "profile.png"
+  avatar: "unnamed.jpg"
   name: "Saadat Irfan"
   pronouns: # example: "she/her"
   bio: "Data Driven Market Researcher"
@@ -56,7 +56,7 @@ author:
   keybase: # Username
   instagram: # Username
   lastfm: # Username
-  linkedin:  "https://www.linkedin.com/in/saadat-irfan/"
+  linkedin:  "www.linkedin.com/in/saadat-irfan/"
   mastodon: # URL
   medium: # URL
   pinterest: # Username
