@@ -7,9 +7,6 @@ collection: portfolio
 
 
 - 
-This Analysis was conducted to find the Top companies operating by revenue for the year 2023 in the United States, In the Analysis conducted the list of the Largest companies was fetched via scraping the content from the website,Python's BeautifulSoup and Pandas liabrary were utilized to achieve the desired scraped output.
+The goal of this analysis was to identify the top American companies by revenue for the year 2023. To achieve the desired scraped output, Python's BeautifulSoup and Pandas library were used to scrape the website's content and compile a list of the largest companies.
 
 You can find the full project on [GitHub](https://github.com/SaadatIrfan/Fetching_Largest_Companies_In_USA).
-
-
--
