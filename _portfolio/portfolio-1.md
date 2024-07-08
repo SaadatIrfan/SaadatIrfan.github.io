@@ -1,5 +1,5 @@
 ---
-title: "1. Fetching Largest Companies In USA"
+title: "- Fetching Largest Companies In USA"
 excerpt: "Listing the largest companies in USA based on their Revenue.<br/>"
 collection: portfolio
 ---

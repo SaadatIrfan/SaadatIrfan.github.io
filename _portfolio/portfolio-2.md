@@ -1,5 +1,5 @@
 ---
-title: "2. Project Breakdown Structure of a Home Services Application"
+title: "- Project Breakdown Structure of a Home Services Application"
 excerpt: "Drafting a Plan of the Application for the MENA region.<br/>"
 collection: portfolio
 ---
