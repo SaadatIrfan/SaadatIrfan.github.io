@@ -7,7 +7,6 @@ collection: portfolio
 
 
 - 
-The Project Breakdown Structure was drafted for a customer that was launching a Home Services Application in the MENA region.
-After a thorough research of the Market, the competitors, and the target audience the plan was drafted taking the business requirement of the customer in consideration.
+The Project Breakdown Structure was drafted for a customer launching a Home Services Application in the MENA region. After a thorough research of the Market, the competitors, and the target audience, the plan was drafted taking the customer's business requirement into consideration.
 
-Here is the [PBS](files/PBS for Home Services Market Place.pdf).
+Check the PBS in the Project Section [HERE](https://www.linkedin.com/in/saadat-irfan/).
